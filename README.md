@@ -1,6 +1,6 @@
 # Cauê Candeloro
 
-**QA Analyst** · Manual & Automated Testing · Remote
+**QA Analyst & Software Testing** · Manual & Automated Testing · Remote
 
 ---
 
@@ -17,25 +17,25 @@ I thrive in Agile environments and value clear communication, attention to detai
 **Testing**
 Manual Testing · Test Case Design · Bug Reporting · Regression Testing · API Testing · Mobile Testing (iOS & Android) · Web Testing
 
-**Automation (in progress)**
-Playwright · Cypress · Appium
+**Automation**
+Playwright · TypeScript · Postman · Newman
 
 **Tools**
-Postman · SQL · Power BI · QlikView · GitHub
+SQL · Power BI · QlikView · GitHub
 
 **Methodology**
 Agile · Scrum
 
 ---
 
-## Featured Projects
+## Portfolio
 
-| Project | Description | Stack |
+| Repository | Description | Stack |
 |---|---|---|
-| [web-testing-saucedemo](https://github.com/cauecandeloro/web-testing-saucedemo) | E2E tests for a web e-commerce application | Playwright · GitHub Actions |
-| [api-testing-restfulbooker](https://github.com/cauecandeloro/api-testing-restfulbooker) | API test collection covering CRUD operations | Postman · Newman |
-
-*More projects coming soon.*
+| [playwright-saucedemo](https://github.com/cauecandeloro/playwright-saucedemo) | E2E tests for a web e-commerce application | Playwright · TypeScript · GitHub Actions |
+| [postman-restfulbooker](https://github.com/cauecandeloro/postman-restfulbooker) | API test collection covering CRUD operations | Postman · JavaScript |
+| [playwright-solcast](https://github.com/cauecandeloro/playwright-solcast) | E2E tests for a real production website | Playwright · TypeScript · GitHub Actions |
+| [qa-documentation](https://github.com/cauecandeloro/qa-documentation) | Test plans, test cases and bug reports | Markdown |
 
 ---
 

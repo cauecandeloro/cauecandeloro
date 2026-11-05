@@ -1,27 +1,23 @@
 # Cauê Candeloro
 
-**QA & Software Testing** · Manual & Automated Testing · Remote
+**Inteligência de negócios para aprimorar processos e criar soluções orientadas por dados.
 
 ---
 
-I'm a technology professional with 15+ years of experience across IT support, systems analysis, and entrepreneurship. Throughout my career I've been involved in software quality assurance across a wide range of domains — ERP and financial systems, e-commerce platforms, REST APIs, and mobile applications on iOS and Android.
-
-My testing background spans the full cycle: requirements review, test case design, test execution, bug reporting, and regression testing. I work with **Postman** for API testing, **SQL** for data validation, and **Power BI** and **QlikView** for data analysis. I'm currently expanding my automation skills with **Playwright** and **Cypress**.
-
-I thrive in Agile environments and value clear communication, attention to detail, and collaborative work — especially in distributed, remote teams.
+Bacharel em Sistemas de Informação e com mais de 15 anos de experiência em tecnologia, atuo na interseção entre negócio, dados e desenvolvimento de soluções digitais. Já passei por papéis como Analista de Suporte, Analista de Dados e Empreendedor, sempre em times multidisciplinares, traduzindo necessidades em soluções práticas — da modelagem de dados a produtos digitais. Tenho facilidade para entender contextos complexos e transformá-los em soluções claras e objetivas, unindo visão analítica e boa comunicação entre áreas de negócio e times técnicos. Tenho experiência em linguagem SQL, ferramentas de análise de dados como Qlikview e Power BI, ferramentas de arquitetura de dados como Fabric e Databricks. Tenho experiência com uso de inteligência artificial para auxílio nas demandas do dia a dia.
 
 ---
 
 ## Skills & Tools
 
 **Testing**
-Manual Testing · Test Case Design · Bug Reporting · Regression Testing · API Testing · Mobile Testing (iOS & Android) · Web Testing
+Manual Testing · Test Case Design · Bug Reporting · Regression Testing · API Testing · Mobile Testing (iOS & Android) · Web Testing · Looker · Tableau · Python · Databricks
 
 **Automation**
 Playwright · Cypress · TypeScript · JavaScript · Postman
 
 **Tools**
-SQL · Power BI · QlikView · GitHub
+SQL · Power BI · QlikView · GitHub · Claude Code · GPT Codex
 
 **Methodology**
 Agile · Scrum
@@ -44,6 +40,3 @@ Agile · Scrum
 
 [LinkedIn](https://www.linkedin.com/in/caue-candeloro) · [GitHub](https://github.com/cauecandeloro)
 
----
-
-*Open to remote QA opportunities worldwide.*

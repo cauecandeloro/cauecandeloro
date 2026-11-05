@@ -1,6 +1,6 @@
 # Cauê Candeloro
 
-# Inteligência de negócios para aprimorar processos e criar soluções orientadas por dados.
+## Inteligência de negócios para aprimorar processos e criar soluções orientadas por dados.
 
 ---
 
@@ -8,19 +8,8 @@ Bacharel em Sistemas de Informação e com mais de 15 anos de experiência em te
 
 ---
 
-## Skills & Tools
-
-**Testing**
-Manual Testing · Test Case Design · Bug Reporting · Regression Testing · API Testing · Mobile Testing (iOS & Android) · Web Testing · Looker · Tableau · Python · Databricks
-
-**Automation**
-Playwright · Cypress · TypeScript · JavaScript · Postman
-
-**Tools**
-SQL · Power BI · QlikView · GitHub · Claude Code · GPT Codex
-
-**Methodology**
-Agile · Scrum
+## Carreira
+(https://cauecandeloro.github.io)
 
 ---
 

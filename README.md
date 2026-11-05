@@ -1,6 +1,6 @@
 # Cauê Candeloro
 
-**Inteligência de negócios para aprimorar processos e criar soluções orientadas por dados.
+** Inteligência de negócios para aprimorar processos e criar soluções orientadas por dados.
 
 ---
 

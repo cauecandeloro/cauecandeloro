@@ -9,7 +9,7 @@ Bacharel em Sistemas de Informação e com mais de 15 anos de experiência em te
 ---
 
 ## Carreira
-(https://cauecandeloro.github.io)
+https://cauecandeloro.github.io
 
 ---
 
